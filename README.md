@@ -34,10 +34,15 @@ It includes:
 - Replace placeholder paths with your own data paths
 
 ## Example Output
-This pipeline generates:
+
+This pipeline generates the following key outputs:
 - PCA plots
 - Volcano plots
 - Heatmaps of top genes
+
+### Volcano Plot Example
+
+![Volcano Plot](Volcano_plot.png)
 
 ## Author
 Hager Salah Abouelnaga
