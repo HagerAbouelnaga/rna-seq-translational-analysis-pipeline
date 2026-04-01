@@ -48,13 +48,13 @@ This volcano plot shows significantly differentially expressed genes based on lo
 
 Note: This figure is for demonstration purposes and does not include identifiable or sensitive data.
 
-### Pathway Enrichment Analysis (GSEA)
+### PCA Plot
 
-![GSEA Plot](GSEA_plot.png)
+![PCA Plot](PCA_plot.png)
 
-Gene Set Enrichment Analysis (GSEA) highlighting significantly upregulated and downregulated pathways.
+Principal Component Analysis (PCA) showing clustering of samples based on gene expression profiles.
 
-Note: Results are presented in a simplified format for demonstration purposes.
+Note: Sample groups are anonymized for demonstration purposes.
 
 ### Pathway Enrichment Analysis (GSEA)
 
