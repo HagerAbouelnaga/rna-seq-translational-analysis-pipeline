@@ -115,11 +115,14 @@ Note: Some visualizations are not displayed to avoid sharing sensitive or unpubl
 
 ## Stemness Analysis (ssGSEA)
 
-Single-sample Gene Set Enrichment Analysis (ssGSEA) was performed using MSigDB C8 cell-type gene sets to estimate stemness-related enrichment scores.
+![Stemness Plot](ssGSEA_plot.png)
 
-This analysis provides insight into stem-like transcriptional programs associated with resistance phenotypes.
+Single-sample Gene Set Enrichment Analysis (ssGSEA) showing stemness-related enrichment scores across samples.
 
-Note: Sample group labels are anonymized to preserve data confidentiality.
+This analysis highlights transcriptional programs associated with stem-like phenotypes.
+
+Note: Sample groups are anonymized for demonstration purposes.
+
 
 ## Drug Resistance Signature (Venetoclax)
 
@@ -140,6 +143,8 @@ This pipeline goes beyond standard differential expression by integrating:
 This is a translational workflow connecting molecular data to clinical outcomes.
 
 ## Clinical Validation (Survival Analysis)
+
+![Survival Plot](survival_plot.png)
 
 To assess clinical relevance, survival analysis was performed using publicly available datasets:
 
