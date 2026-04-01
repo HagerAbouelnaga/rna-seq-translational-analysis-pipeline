@@ -48,5 +48,21 @@ This volcano plot shows significantly differentially expressed genes based on lo
 
 Note: This figure is for demonstration purposes and does not include identifiable or sensitive data.
 
+### Pathway Enrichment Analysis (GSEA)
+
+![GSEA Plot](GSEA_plot.png)
+
+Gene Set Enrichment Analysis (GSEA) highlighting significantly upregulated and downregulated pathways.
+
+Note: Results are presented in a simplified format for demonstration purposes.
+
+### Pathway Enrichment Analysis (GSEA)
+
+![GSEA Plot](GSEA_plot.png)
+
+Gene Set Enrichment Analysis (GSEA) highlighting significantly upregulated and downregulated pathways.
+
+Note: Results are presented in a simplified format for demonstration purposes.
+
 ## Author
 Hager Salah Abouelnaga
