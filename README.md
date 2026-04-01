@@ -33,6 +33,16 @@ It includes:
 - Data files are not included
 - Replace placeholder paths with your own data paths
 
+## Gene Filtering and Ranking
+
+Significant genes are identified based on adjusted p-value (padj < 0.05).
+
+Genes are further categorized into:
+- Upregulated genes (log2FoldChange > 0)
+- Downregulated genes (log2FoldChange < 0)
+
+Top genes can be extracted and ranked based on fold change or statistical significance.
+
 ## Example Output
 
 This pipeline generates the following key outputs:
@@ -64,7 +74,7 @@ Gene Set Enrichment Analysis (GSEA) highlighting significantly upregulated and d
 
 Note: Results are presented in a simplified format for demonstration purposes.
 
-## Additional Analysis
+### Additional Analysis
 
 This project also includes extended downstream analyses such as:
 
